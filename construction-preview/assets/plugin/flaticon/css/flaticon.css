@@ -1,0 +1,45 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 14/09/2017 08:10
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../font/Flaticon.eot");
+  src: url("../font/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../font/Flaticon.woff") format("woff"),
+       url("../font/Flaticon.ttf") format("truetype"),
+       url("../font/Flaticon.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../font/Flaticon.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 40px;
+font-style: normal;
+}
+
+.flaticon-bricks:before { content: "\f100"; }
+.flaticon-construction:before { content: "\f101"; }
+.flaticon-skyline:before { content: "\f102"; }
+.flaticon-technology:before { content: "\f103"; }
+.flaticon-brick-wall:before { content: "\f104"; }
+.flaticon-construction-tool-vehicle-with-crane-lifting-materials:before { content: "\f105"; }
+.flaticon-tool:before { content: "\f106"; }
+.flaticon-truck-transport-with-construction-materials:before { content: "\f107"; }
+.flaticon-worker-of-construction-working-with-a-shovel-beside-material-pile:before { content: "\f108"; }
+.flaticon-trowel:before { content: "\f109"; }
+.flaticon-dumper:before { content: "\f10a"; }
+.flaticon-crane:before { content: "\f10b"; }
+.flaticon-bulldozer:before { content: "\f10c"; }
+.flaticon-cone:before { content: "\f10d"; }
+.flaticon-barrier:before { content: "\f10e"; }

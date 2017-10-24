@@ -1,0 +1,495 @@
+@media screen and (max-width: 1350px) {
+    .carousel-style-1.owl-theme .owl-nav .owl-prev,
+    .carousel-style-1.owl-theme .owl-nav .owl-next {
+        float: none;
+        margin: 0 10px;
+    }
+    .carousel-style-1.owl-theme .owl-nav {
+        position: relative;
+        margin-top: 2%;
+    }
+    #testimonial .owl-next {
+        top: 165px;
+        right: 40%;
+    }
+    #testimonial .owl-prev {
+        top: 165px;
+        left: 40%;
+    }
+}
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    .nav-seach-box {
+        width: 100%;
+        margin-left: 0;
+    }
+    .slider-text {
+        left: 50px;
+    }
+    .countdown.styled {
+        margin-bottom: 0;
+    }
+    .coming-soon {
+        margin-top: -305.5px;
+    }
+    .forcenter {
+        margin-top: 0;
+    }
+}
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+    .slider-text {
+        left: 50px;
+    }
+    .countdown.styled {
+        margin-bottom: 0;
+    }
+    .forcenter {
+        margin-top: 0;
+    }
+    .coming-soon-page h3 {
+        color: #fff;
+        font-size: 18px;
+    }
+    .count-area {
+        padding: 55px 0px;
+        font-size: 50px;
+        width: 130px;
+        height: 130px;
+    }
+    .coming-soon-page h1 {
+        font-size: 72px;
+    }
+    .coming-soon-page h1 span {
+        font-size: 72px;
+    }
+    .coming-soon {
+        margin-top: -285.5px;
+    }
+    .contractors h4 a {
+        font-size: 14px;
+    }
+    .members-detail h4 {
+        font-size: 17px;
+    }
+    .nav-seach-box {
+        width: 100%;
+        margin-left: 0;
+    }
+    .social-icon ul li {
+        padding: 10px 7px;
+    }
+    .footer-img-list ul li {
+        margin: 2px 2px;
+    }
+    .blog-detail p {
+        font-size: 11px;
+    }
+    #testimonial .owl-next {
+        top: 165px;
+        right: 40%;
+    }
+    #testimonial .owl-prev {
+        top: 165px;
+        left: 40%;
+    }
+    .tags ul li a {
+        margin: 0 3px 10px;
+    }
+    .footer-part h5 {
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+    .contractors h4 a {
+        font-size: 14px;
+    }
+    .members-detail h4 {
+        font-size: 17px;
+    }
+    .countdown.styled {
+        margin-bottom: 0;
+    }
+    .forcenter {
+        margin-top: 0;
+    }
+    .coming-soon-page h3 {
+        color: #fff;
+        font-size: 18px;
+    }
+    .count-area {
+        padding: 55px 0px;
+        font-size: 50px;
+        width: 130px;
+        height: 130px;
+    }
+    .coming-soon-page h1 {
+        font-size: 72px;
+    }
+    .coming-soon-page h1 span {
+        font-size: 72px;
+    }
+    .coming-soon {
+        margin-top: -285.5px;
+    }
+    .nav-seach-box {
+        width: 100%;
+        margin-left: 0;
+    }
+    .blog-detail p {
+        font-size: 11px;
+    }
+    #testimonial .owl-next {
+        top: 165px;
+        right: 40%;
+    }
+    #testimonial .owl-prev {
+        top: 165px;
+        left: 40%;
+    }
+    .social-icon ul li {
+        padding: 10px 7px;
+    }
+    .footer-img-list ul li {
+        margin: 2px 2px;
+    }
+    .tags ul li a {
+        margin: 0 3px 10px;
+    }
+    .footer-part h5 {
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .navbar-header {
+        float: left;
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid #eee;
+    }
+    .navbar-brand {
+        text-align: center;
+        float: left;
+        float: none;
+        display: inline-block;
+    }
+    .navbar-nav {
+        float: left;
+    }
+    .nav-bar-icon {
+        top: 71%;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        display: inline-block !important;
+        width: 100%;
+    }
+    .search-icon.s-icon {
+        top: 70%;
+        margin-top: -14px;
+    }
+    .slider-text {
+        left: 50px;
+        top: 50%;
+        margin-top: -130.5px;
+    }
+    .slider-text h1 {
+        font-size: 50px;
+        max-width: 500px;
+        margin-bottom: 10px;
+    }
+    .slider-text h1 span {
+        font-size: 50px;
+    }
+    .theme-heading h3 {
+        font-size: 25px;
+    }
+    .coming-soon-page h1 {
+        font-size: 60px;
+    }
+    .coming-soon-page h1 span {
+        font-size: 60px;
+    }
+    .coming-soon-page h3 {
+        font-size: 13px;
+    }
+    .coming-soon {
+        margin-top: -287.5px;
+    }
+    span.countdown-text {
+        font-size: 15px;
+    }
+    .count-area {
+        padding: 47px 0px;
+        font-size: 40px;
+        width: 112px;
+        height: 112px;
+        border-radius: 50%;
+    }
+    .about-us h3 {
+        margin-top: 30px;
+    }
+    .team-detail figure img {
+        margin-bottom: 30px;
+    }
+    #testimonial .owl-next {
+        top: 165px;
+        right: 40%;
+    }
+    #testimonial .owl-prev {
+        top: 165px;
+        left: 40%;
+    }
+    .construction-letter h3 {
+        font-size: 15px;
+    }
+    .footer-img-list ul li {
+        margin: 2px 2px;
+    }
+    .social-icon ul li {
+        padding: 30px 17px 0 17px;
+    }
+    .counters-icon h5 {
+        font-size: 14px;
+    }
+    .comment-box h4 {
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .comment-box h4 span {
+        font-size: 14px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .left-side.open .dropdown-menu {
+        margin-left: -200px !important;
+        top: 103.5% !important;
+    }
+    ul.timer {
+        height: 120px;
+    }
+    .timer span {
+        display: inline-block;
+        margin-top: 4px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .slider-text {
+        top: 50%;
+        margin-top: -56px;
+        text-align: center;
+    }
+    .slider-text h1 {
+        font-size: 25px;
+        max-width: 312px;
+        display: table;
+        margin: 0 auto;
+    }
+    .slider-text h1 span {
+        font-size: 25px;
+    }
+    .slider-text h2 {
+        font-size: 20px;
+    }
+    .slider-text h2 span {
+        font-size: 20px;
+    }
+    .theme-heading h3 {
+        font-size: 17px;
+    }
+    .coming-soon-page h1 {
+        font-size: 25px;
+    }
+    .coming-soon-page h1 span {
+        font-size: 25px;
+    }
+    .coming-soon {
+        margin-top: -279.5px;
+    }
+    .count-area {
+        padding: 40px 0;
+        font-size: 25px;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+    }
+    .coming-soon-page h3 {
+        font-size: 12px;
+    }
+    .countdown.styled {
+        margin-bottom: 0;
+    }
+    span.countdown-text {
+        font-size: 14px;
+    }
+    .form-group {
+        margin-bottom: 0;
+    }
+    .news-letter-form {
+        margin-top: 10px;
+    }
+    .contractors h4 a {
+        font-size: 14px;
+    }
+    .about-us h3 {
+        margin-top: 30px;
+    }
+    .blog-detail p {
+        font-size: 10px;
+    }
+    .construction-letter p {
+        display: none;
+    }
+    .comment-box h4 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .comment-box h4 span {
+        font-size: 12px;
+    }
+    .tags {
+        padding-bottom: 30px;
+    }
+    .team-detail h4 {
+        margin-top: 30px;
+    }
+    .team-profile h4 {
+        margin-top: 20px;
+    }
+    .footer-img-list ul li a {
+        display: block;
+    }
+    .error h1 {
+        font-size: 25px;
+    }
+    .error p {
+        font-size: 12px;
+    }
+    a.navbar-brand {
+        padding: 10px 15px;
+    }
+    .navbar-header {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .navbar-toggle {
+        margin-top: 15px;
+        margin-right: 15px;
+    }
+    .navbar-default {
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav li a {
+        padding: 10px 15px;
+    }
+    .navbar-default .navbar-nav li .dropdown-menu li a,
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a {
+        color: #000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover {
+        color: #000;
+    }
+    .navbar-brand>img {
+        padding-top: 10px;
+    }
+    .nav-bar-icon {
+        display: none;
+    }
+    .navbar-default .navbar-nav li a:after {
+        bottom: 2px;
+    }
+    .nav-seach-box {
+        width: 100%;
+        margin-left: 0;
+    }
+    #testimonial .owl-next {
+        top: 155px;
+        right: 30%;
+    }
+    #testimonial .owl-prev {
+        top: 155px;
+        left: 30%;
+    }
+    .footer-detail:after {
+        border-right: 15px solid transparent;
+        right: -15px;
+    }
+    .footer-detail:before {
+        border-left: 15px solid transparent;
+        left: -15px;
+    }
+    a.itg-button.pricing-btn {
+        padding: 15px 0;
+    }
+    .social-icon ul li {
+        padding: 30px 7px 0;
+    }
+    .news-letter button.button-style {
+        height: 34px;
+        padding: 5px 15px;
+    }
+    .news-letter input {
+        height: 35px;
+    }
+    .sign-up h5 {
+        padding-bottom: 30px;
+    }
+    .pagination-box {
+        text-align: left;
+    }
+    .navbar-nav {
+        padding: 10px 0;
+    }
+    .blog-details h4 {
+        font-size: 13px;
+    }
+}
+@media screen and (min-width: 641px) and (max-width: 767px) {
+    .construction-letter h3 {
+        font-size: 22px;
+        padding-bottom: 30px;
+        padding-left: 14px;
+    }
+}
+@media screen and (min-width: 481px) and (max-width: 640px) {
+    .construction-letter h3 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        padding-left: 14px;
+    }
+}
+@media screen and (min-width: 320px) and (max-width: 480px) {
+    .top-bar ul li {
+        display: inline-block;
+        margin: 0 8px;
+        font-size: 14px;
+    }
+    .count-area {
+        padding: 20px 0;
+        font-size: 15px;
+        width: 60px;
+        height: 60px;
+        border-radius: 100%;
+    }
+    span.countdown-text {
+        font-size: 12px;
+    }
+    .theme-bg-inputs input[type=email] {
+        font-size: 10px;
+    }
+    .coming-soon-page h3 {
+        font-size: 11px;
+    }
+    .coming-soon-page h1 {
+        font-size: 20px;
+    }
+    .coming-soon-page h1 span {
+        font-size: 20px;
+    }
+    .news-letter-form .button {
+        right: -15px;
+    }
+    .construction-letter h3 {
+        font-size: 16px;
+        padding-bottom: 30px;
+        padding-left: 14px;
+    }
+}
