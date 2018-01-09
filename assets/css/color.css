@@ -19,7 +19,8 @@
 .blog-text p a:hover,
 .blog-text h4 a:hover,
 ul.val li {
-    color: #dca44b;
+    /*color: #dca44b;*/
+    color:#868789;
 }
 .itg-button:hover,
 .nav .open > a:focus,
