@@ -66,7 +66,7 @@ Primary use: Construction, Building, Engineer or Architecture, Corporate, Creati
 /*--- theme  linia icon CSS ---*/
 @import url("../plugin/iconfonts/css/iconfont.css");
 /*--- jquery-ui.CSS ---*/
-@import url ("../plugins/jquery-ui/css/jquery-ui.html");
+@import url("../plugins/jquery-ui/css/jquery-ui.html");
 /*--- theme effect hover CSS ---*/
 @import url("../plugin/hover-effect/css/themeHover.css");
 /*--- flaticon.CSS ---*/
@@ -87,6 +87,38 @@ Primary use: Construction, Building, Engineer or Architecture, Corporate, Creati
 2 Body
 ==========================
 */
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+body {
+  margin: 0px;
+}
+nav {
+  margin-top: 40px;
+  padding: 24px;
+  text-align: center;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+}
+#nav-1 {
+  background: #3fa46a;
+}
+#nav-2 {
+  background: #5175C0;
+}
+#nav-3 {
+  background: #EEA200;
+}
+
+.link-1 {
+  transition: 0.3s ease;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 20px 0;
+  margin-top: 20px;
+}
+.link-1:hover {
+  border-top: 4px solid #d00112;
+  border-bottom: 4px solid #868789;
+  padding: 1px 0; 
+}
 
 body {
     font-family: 'Martel Sans', sans-serif;
